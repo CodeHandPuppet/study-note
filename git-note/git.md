@@ -1,6 +1,8 @@
-#  [原作者的文章](https://github.com/KinoMin/bigdata-learning-notes/blob/master/note/git/git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md)
+#  说明
 
+[原作者的文章](https://github.com/KinoMin/bigdata-learning-notes/blob/master/note/git/git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md)
 
+[游戏练手](https://learngitbranching.js.org/?locale=zh_CN)
 
 > 下载该作者的 笔记 https://github.com/KinoMin/bigdata-learning-notes/blob/master/note/git/git%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md
 
